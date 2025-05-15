@@ -70,6 +70,6 @@ For professional inquiries, suggestions, or collaboration opportunities, please 
 connect through linkedin:https://www.linkedin.com/in/prajwal-kamaradgi-4a78432b3
 
 ## ScreenShot
-![Dashboard Preview].(https://github.com/Pkprajwal04/High-Cloud-Airlines-Dashoboard/blob/main/Snapshot%20of%20Dashboard.png)
+![Alt text](https://github.com/Pkprajwal04/High-Cloud-Airlines-Dashoboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 
