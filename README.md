@@ -64,10 +64,12 @@ If you want to explore or modify the dashboard:
 3. Open with Power BI Desktop.
 4. Connect your own dataset or use the existing model to analyze the visuals
 
-
 ## 📬 Contact
 
 For professional inquiries, suggestions, or collaboration opportunities, please reach out via GitHub Issues or 
 connect through linkedin:https://www.linkedin.com/in/prajwal-kamaradgi-4a78432b3
+
+## ScreenShot
+![Dashboard Preview].(https://github.com/Pkprajwal04/High-Cloud-Airlines-Dashoboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 
