@@ -1,7 +1,5 @@
 # ✈️ High Cloud Airlines Dashboard
 
-![High Cloud Airlines Dashboard](./Screenshot%20(9).png)
-
 ## 📊 Project Overview
 
 The High Cloud Airlines Dashboard is an interactive Power BI report designed to analyze key operational metrics in the aviation industry. This dashboard offers a comprehensive view of airline data to support performance monitoring and strategic planning.
