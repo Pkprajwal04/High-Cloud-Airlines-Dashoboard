@@ -55,6 +55,7 @@ The High Cloud Airlines Dashboard is an interactive Power BI report designed to 
 - Market Trends: Discover travel patterns by month and region.
 - Stakeholder Reporting: Use visuals for executive presentations.
 
+
 ## 💡 Getting Started
 
 If you want to explore or modify the dashboard:
